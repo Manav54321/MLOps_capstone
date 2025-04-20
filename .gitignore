@@ -89,5 +89,5 @@ target/
 .mypy_cache/
 
 cred.txt
-nootebooks/
+notebooks/
 local_s3/
