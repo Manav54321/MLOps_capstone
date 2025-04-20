@@ -87,3 +87,7 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+cred.txt
+nootbooks/
+local_s3/
